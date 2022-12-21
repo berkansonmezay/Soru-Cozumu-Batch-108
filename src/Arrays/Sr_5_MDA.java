@@ -24,6 +24,6 @@ public class Sr_5_MDA {
 
         }
 
-        System.out.println("\nArray in son elemetleri toplamı: "+toplam);
+        System.out.println("\n Array in son elemetleri toplamı: "+toplam);
     }
 }
