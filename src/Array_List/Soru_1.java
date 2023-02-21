@@ -27,6 +27,7 @@ public class Soru_1 {
             if(!tekrarsizElementlerList.contains(arr[i])){
 
                 tekrarsizElementlerList.add(arr[i]);
+
             }
 
         }
